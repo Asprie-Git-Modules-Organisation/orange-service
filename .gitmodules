@@ -1,0 +1,3 @@
+[submodule "servicedefaults"]
+	path = servicedefaults
+	url = https://github.com/Asprie-Git-Modules-Organisation/servicedefaults.git
