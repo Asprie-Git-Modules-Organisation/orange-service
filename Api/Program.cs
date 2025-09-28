@@ -12,6 +12,8 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
+//Empty comment to generate a commit
+
 app.UseHttpsRedirection();
 
 var summaries = new[]
